@@ -1,0 +1,32 @@
+/* using tagname */
+
+body{
+    background-color: black;
+}
+
+/* using id */
+#second{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+/* using id, id could be specified on the html file it is denoted using # before the id */
+
+#main{
+    color: yellow;
+}
+
+/* using class used . before the class */
+/* success=>green
+danger=>:red
+primary=>blue */
+
+.success{
+    color: green;
+}
+
+.primary{
+    color: blue;
+}
